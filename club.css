@@ -1,0 +1,103 @@
+body {
+    background-color: wheat;
+}
+table {
+    border-spacing: 0px;
+    margin: auto;
+    border-radius: 5px;
+    border-color: brown;
+}
+th {
+    background-color: rgb(204, 35, 153);
+    font-size: 23px;
+    height: 40px;
+    text-align: center;
+    
+}
+td {
+    
+    font-weight: bold;
+    font-size: 20px;
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+    
+}
+tr:hover {
+    background: seagreen;
+}
+.gk {
+    background-color: skyblue;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.cb {
+    background-color: skyblue;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.cm {
+    background-color: skyblue;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.fw {
+    background-color: skyblue;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.back {
+    
+        background-color: skyblue;
+        padding: 15px;
+        margin-bottom: 10px;
+        margin-right: 880px;
+        margin-left: 880px;
+        border-radius: 10px;
+    
+}
+.backk {
+    background: skyblue;
+}
+img {
+    cursor: pointer;
+    border-color: skyblue;
+    border-radius: 15px;
+    margin-top: 30px;
+    display: block;
+    margin: auto;
+    width: 1750px;
+    height: 900px;
+}
+.fans {
+    background-color: skyblue;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px;  
+}
+p span {
+    font-size: 30px;
+    color: blue;
+    border: 3px dashed red;
+    padding: 10px;
+}
+input {
+    background: skyblue;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+}
